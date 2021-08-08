@@ -1,5 +1,5 @@
 <h1 text-align="center">Olá! Eu sou o Vinícius Carvalho Rosa 👋🏼</h1>
-
+<img align='center' width='80%' src="https://64.media.tumblr.com/9348a3347757267167ed4b81dafbf430/tumblr_npvj6c8Qhz1rgda2fo2_500.gifv">
  <div>
   <a href="https://github.com/VinxciusRosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinxciusRosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
