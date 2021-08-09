@@ -1,5 +1,5 @@
-<h1 text-align="center">Olá! Eu sou o Vinícius Carvalho Rosa 👋🏼</h1>
-<img align='center' width='80%' src="https://64.media.tumblr.com/07aeb9ee5daad67fa66f44706da50f9c/tumblr_npvj6c8Qhz1rgda2fo3_500.gifv">
+<h1 align="center"> Olá! Eu sou o Vinícius Carvalho Rosa 👋🏼</h1>
+ <img align='center' width='100%' src="https://64.media.tumblr.com/07aeb9ee5daad67fa66f44706da50f9c/tumblr_npvj6c8Qhz1rgda2fo3_500.gifv">
  <div>
   <a href="https://github.com/VinxciusRosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinxciusRosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
