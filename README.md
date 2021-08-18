@@ -7,7 +7,8 @@
  </div>
  
  ##
- 
+  ![Snake animation](https://github.com/VinxciusRosa/VinxciusRosa/blob/output/github-contribution-grid-snake.svg)
+ ##
  <h3>Linguagens e Ferramentas</h3>
   
  <div style="display: inline_block"><br>
@@ -20,7 +21,8 @@
  </div>
  
 ##
-  <h3>Contatos</h3>
+ 
+ <h3>Contatos</h3>
    <div> 
     <a href="https://www.youtube.com/c/UmaDosedeCiência" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/vinicius-carvalho-rosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -28,7 +30,7 @@
       <a href="https://instagram.com/vinxcin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:v.rosa@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/VinxciusRosa/VinxciusRosa/blob/output/github-contribution-grid-snake.svg)
+
  
  </div>
 
